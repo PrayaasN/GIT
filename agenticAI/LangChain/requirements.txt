@@ -10,3 +10,6 @@ pypdf
 langchain-text-splitters
 langchain-openai
 chromadb
+langchain-text-splitters
+langchain-openai
+chromadb
